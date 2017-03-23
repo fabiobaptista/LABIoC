@@ -18,6 +18,7 @@ namespace LABDI
             //Ex. $deferred.call(ServiceApp)
             Console.WriteLine(new ServiceApp().GetMessage());
             Console.ReadKey();
+
         }
     }
 }
